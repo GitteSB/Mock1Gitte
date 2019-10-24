@@ -1,0 +1,12 @@
+C:\Users\Sevel\source\repos\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Sevel\source\repos\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Sevel\source\repos\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Sevel\source\repos\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+C:\Users\Sevel\source\repos\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Sevel\source\repos\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPClient\obj\Debug\TCPClient.pdb

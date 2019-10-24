@@ -1,0 +1,32 @@
+C:\Users\Sevel\source\repos\TCPServer\obj\Debug\netcoreapp3.0\TCPServer.csprojAssemblyReference.cache
+C:\Users\Sevel\source\repos\TCPServer\obj\Debug\netcoreapp3.0\TCPServer.AssemblyInfoInputs.cache
+C:\Users\Sevel\source\repos\TCPServer\obj\Debug\netcoreapp3.0\TCPServer.AssemblyInfo.cs
+C:\Users\Sevel\source\repos\TCPServer\bin\Debug\netcoreapp3.0\TCPServer.exe
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\obj\Debug\netcoreapp3.0\TCPServer.csprojAssemblyReference.cache
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\obj\Debug\netcoreapp3.0\TCPServer.AssemblyInfoInputs.cache
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\obj\Debug\netcoreapp3.0\TCPServer.AssemblyInfo.cs
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\TCPServer.exe
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\TCPServer.deps.json
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\TCPServer.runtimeconfig.json
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\TCPServer.runtimeconfig.dev.json
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\TCPServer.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\TCPServer.pdb
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\Skat.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\bin\Debug\netcoreapp3.0\Skat.pdb
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\obj\Debug\netcoreapp3.0\TCPServer.csproj.CopyComplete
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\obj\Debug\netcoreapp3.0\TCPServer.dll
+C:\Users\Sevel\Downloads\Mock1-master (1)\Mock1-master\TCPServer\obj\Debug\netcoreapp3.0\TCPServer.pdb
