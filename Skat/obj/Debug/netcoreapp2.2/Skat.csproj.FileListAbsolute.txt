@@ -1,0 +1,16 @@
+C:\Users\Sevel\source\repos\Skat\bin\Debug\netcoreapp2.2\Skat.deps.json
+C:\Users\Sevel\source\repos\Skat\bin\Debug\netcoreapp2.2\Skat.dll
+C:\Users\Sevel\source\repos\Skat\bin\Debug\netcoreapp2.2\Skat.pdb
+C:\Users\Sevel\source\repos\Skat\obj\Debug\netcoreapp2.2\Skat.csprojAssemblyReference.cache
+C:\Users\Sevel\source\repos\Skat\obj\Debug\netcoreapp2.2\Skat.AssemblyInfoInputs.cache
+C:\Users\Sevel\source\repos\Skat\obj\Debug\netcoreapp2.2\Skat.AssemblyInfo.cs
+C:\Users\Sevel\source\repos\Skat\obj\Debug\netcoreapp2.2\Skat.dll
+C:\Users\Sevel\source\repos\Skat\obj\Debug\netcoreapp2.2\Skat.pdb
+C:\Users\Sevel\Documents\Programmering\mock1\Skat\bin\Debug\netcoreapp2.2\Skat.deps.json
+C:\Users\Sevel\Documents\Programmering\mock1\Skat\bin\Debug\netcoreapp2.2\Skat.dll
+C:\Users\Sevel\Documents\Programmering\mock1\Skat\bin\Debug\netcoreapp2.2\Skat.pdb
+C:\Users\Sevel\Documents\Programmering\mock1\Skat\obj\Debug\netcoreapp2.2\Skat.csprojAssemblyReference.cache
+C:\Users\Sevel\Documents\Programmering\mock1\Skat\obj\Debug\netcoreapp2.2\Skat.AssemblyInfoInputs.cache
+C:\Users\Sevel\Documents\Programmering\mock1\Skat\obj\Debug\netcoreapp2.2\Skat.AssemblyInfo.cs
+C:\Users\Sevel\Documents\Programmering\mock1\Skat\obj\Debug\netcoreapp2.2\Skat.dll
+C:\Users\Sevel\Documents\Programmering\mock1\Skat\obj\Debug\netcoreapp2.2\Skat.pdb

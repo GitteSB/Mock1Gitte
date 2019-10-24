@@ -1,0 +1,7 @@
+C:\Users\Sevel\source\repos\Skat\bin\Debug\netcoreapp3.0\Skat.deps.json
+C:\Users\Sevel\source\repos\Skat\bin\Debug\netcoreapp3.0\Skat.dll
+C:\Users\Sevel\source\repos\Skat\bin\Debug\netcoreapp3.0\Skat.pdb
+C:\Users\Sevel\source\repos\Skat\obj\Debug\netcoreapp3.0\Skat.AssemblyInfoInputs.cache
+C:\Users\Sevel\source\repos\Skat\obj\Debug\netcoreapp3.0\Skat.AssemblyInfo.cs
+C:\Users\Sevel\source\repos\Skat\obj\Debug\netcoreapp3.0\Skat.dll
+C:\Users\Sevel\source\repos\Skat\obj\Debug\netcoreapp3.0\Skat.pdb
